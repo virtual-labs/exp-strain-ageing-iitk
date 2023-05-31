@@ -8,7 +8,7 @@
 
 ### About the Experiment 
 
-<b> Fill here about the experiment
+<b> A tensile testing machine is required to obtain tensile properties of rolled aluminum.
 
 <b>Name of Developer | <b> Prof. Sudhansu S. Singh , Prof. Shashank Shekhar
 :--|:--|
