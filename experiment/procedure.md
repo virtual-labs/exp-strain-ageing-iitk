@@ -7,6 +7,6 @@ Test 1: Test until fracture.
 Test 2: Unload and immediately retest.
 Test 3: Unload and retest after aging.
 
-Step 4: Activity. Click the "Next" button to proceed.<br>
+Step 4: Results: Engineering Stress vs Engineering Strain.
 
-Step 5: Results: Engineering Stress vs Engineering Strain.
+Step 5: Activity. Click the "Next" button to proceed.<br>
