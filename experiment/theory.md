@@ -1,4 +1,3 @@
-<b> Theory of experiment</b><br><br>
 <b>Brief Description of the Equipment/Machine </b><br>
 A tensile testing machine is required to obtain tensile properties of rolled aluminum.  <br><br>
 <b>Yield point phenomenon</b><br> 
