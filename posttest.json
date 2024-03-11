@@ -1,0 +1,107 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which of the following element causes strain aging in steels other than carbon?",
+      "answers": {
+        "a": "Molybdenum ",
+        "b": "Nitrogen",
+        "c": "Chromium",
+        "d": "Copper"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Strain aging involves:",
+      "answers": {
+        "a": "Nitrides",
+        "b": "Substitutional atoms",
+        "c": "Interstitial atoms",
+        "d": "Carbides"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Lüder bands can be seen in:",
+      "answers": {
+        "a": "Creep",
+        "b": "Strain aging",
+        "c": "Strain hardening",
+        "d": "Age hardening"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which is/are true for strain aging?",
+      "answers": {
+        "a": "Interstitial elements pin dislocations resulting in an increased yield stress",
+        "b": "Yield point phenomenon improves the ductility and decreases the strength",
+        "c": "Unloading the sample after completion of yield point phenomenon and reloading it after heating will not show strain aging",
+        "d": "Strain aging process involves precipitation of nitrides"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Upper yield point is not related to",
+      "answers": {
+        "a": "The point where elastic extension is terminated",
+        "b": "The point where yielding starts",
+        "c": "The point of initiation of Lüders bands",
+        "d": "The stress related to growth of Lüder bands"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. In stress-strain plot of mild steel (showing yield point phenomenon), homogeneous deformation is related to:",
+      "answers": {
+        "a": "Deformation after necking",
+        "b": "Lower yield point",
+        "c": "Elastic deformation",
+        "d": "Growth of Lüder bands"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
