@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which of the following elements primarily cause strain aging in steels?",
+      "answers": {
+        "a": "Carbon",
+        "b": "Chromium",
+        "c": "Zinc",
+        "d": "Nickel"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Which of the following statements are correct w.r.t. strain aging?",
+      "answers": {
+        "a": "Strain aging process involves precipitation of carbides",
+        "b": "Unloading the sample after completion of yield point phenomenon and quickly reloading it would show strain aging",
+        "c": "The yield point after aging is higher than the initial yield pointanswer3",
+        "d": "Strain aging phenomenon is due to change in crystal structure"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Strain aging is more popular in:",
+      "answers": {
+        "a": "Mild steel",
+        "b": "304 stainless steels",
+        "c": "Aluminum alloys",
+        "d": "Magnesium alloys"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which one of the following is incorrect?",
+      "answers": {
+        "a": "Reappearance of yield point phenomenon is due to diffusion of interstitial atoms to core of dislocations.",
+        "b": "Reducing carbon content can avoid yield point phenomenon",
+        "c": "The upper yield point is nucleation stress of the Lüders bands. ",
+        "d": "The strain aging effect does not depend upon the type of solute atoms"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Lower yield point is not related to: ",
+      "answers": {
+        "a": "Inhomogeneous deformation",
+        "b": "Initiation of Lüder bands",
+        "c": "Growth of Lüder bands",
+        "d": "Plastic deformation"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
